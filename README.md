@@ -22,3 +22,5 @@ Today, I am no longer trapped in the shadows of a dead-end job. I am a coder, a 
 Thank you for visiting my profile. Here, you'll find the projects that mark the milestones of my journey. I hope they inspire you as much as the journey has inspired me.
 
 Feel free to reach out to connect, collaborate, or just share your own story. Let’s keep pushing the boundaries of what’s possible!
+
+Skills : Python, Django, SQL, AWS, NumPy, Pandas, Beautiful Soup
